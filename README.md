@@ -1,5 +1,12 @@
 ## Olá! 👋
 
+##### Sobre Joann
+Após alguns anos de dedicação à Psicologia, descobri na tecnologia — especialmente no desenvolvimento front-end — uma nova forma de impactar positivamente a vida das pessoas. O que antes era um olhar voltado para o comportamento humano agora se transforma em interfaces funcionais, acessíveis e pensadas para a melhor experiência do usuário.
+
+Minha formação em Psicologia me trouxe habilidades valiosas: empatia, escuta ativa, pensamento analítico e sensibilidade para entender necessidades — competências que hoje aplico no desenvolvimento de soluções digitais com propósito. Estou em transição para a área de tecnologia, estudando HTML, CSS, JavaScript e React, com foco em criar aplicações que façam sentido para quem as utiliza.
+
+A mudança de carreira não foi apenas técnica, mas também pessoal: redescobri minha paixão por aprender, construir e resolver problemas. Estou pronta para unir o olhar humano da Psicologia com a lógica criativa da programação — e muito animada com o que está por vir.
+
 ### Habilidades
 <!--Languages-->
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -21,7 +28,10 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoannEmawodia&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Projetos
-![Calculadora de médias](https://github-readme-stats.vercel.app/api/pin/?username=JoannEmawodia&repo=JoannEmawodia&theme=dracula)
+![Calculadora de médias](https://github-readme-stats.vercel.app/api/pin/?username=JoannEmawodia&repo=sorteador_grunt&theme=dracula)
+
+### Linguagens usadas
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoannEmawodia&layout=donut&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contato
 [<img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin height="30">](https://www.linkedin.com/in/joann-emawodia/)
