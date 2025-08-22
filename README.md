@@ -8,11 +8,6 @@ Minha formação em Psicologia me trouxe habilidades valiosas: empatia, escuta a
 A mudança de carreira não foi apenas técnica, mas também pessoal: redescobri minha paixão por aprender, construir e resolver problemas. Estou pronta para unir o olhar humano da Psicologia com a lógica criativa da programação — e muito animada com o que está por vir.
 
 ### Habilidades
-<!--Languages-->
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![JSon](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 <!--Framework-->
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -30,7 +25,7 @@ A mudança de carreira não foi apenas técnica, mas também pessoal: redescobri
 ### Projetos
 ![Calculadora de médias](https://github-readme-stats.vercel.app/api/pin/?username=JoannEmawodia&repo=sorteador_grunt&theme=dracula)
 
-### Linguagens usadas
+### Linguagens utilizadas
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoannEmawodia&layout=donut&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contato
